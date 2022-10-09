@@ -26,4 +26,4 @@ jobs:
           external_repository: qxsugar/website
           personal_token: ${{ secrets.ACTION_ACCESS_TOKEN }}
           publish_dir: ./public
-          publish_branch: master
+          publish_branch: gh-pages
