@@ -1,6 +1,8 @@
 name: deploy to github page
 on:
-  - push
+  push:
+    branches:
+      - master
 
 jobs:
   deploy:
