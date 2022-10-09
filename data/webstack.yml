@@ -1,62 +1,36 @@
----
-
-- taxonomy: 常用推荐
+- taxonomy: 作品/DEMO
   icon: far fa-star
-  links: 
-    - title: 关注我们
-      logo: ""
-      url: https://bioitee.com
-      qrcode: assets/images/logos/qrcode.jpg
-      description: BioIT 爱好者！
-    - title: 语雀
-      logo: 语雀.jpg
-      url: https://www.yuque.com/
-      description: 专业的云端知识库。
-    - title: QQ 邮箱
-      logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
-    - title: 开源中国
-      logo: 开源中国.jpg
-      url: https://www.oschina.net/
-      description: 中文开源技术交流社区。
-    - title: 公众号平台
-      logo: 微信公众号.png
-      url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌。
-    - title: CODING
-      logo: coding.png
-      url: https://shenweiyan.coding.net/user/projects
-      description: 个人 CODING 代码托管。
-    - title: GitHub
-      logo: github.jpg
-      url: https://github.com/
-      description: GitHub 开源社区。
-    - title: Md2X 定制版
-      logo: mdx.png
-      url: https://mdx.ncbix.com/
-      description: Markdown 排版利器，Md2All 定制版。
-    - title: 搜狗微信
-      logo: 搜狗微信.jpg
-      url: https://weixin.sogou.com/
-      description: 搜狗微信搜索，一搜即达。
-    - title: 知乎
-      logo: 知乎.png
-      url: https://www.zhihu.com/
-      description: 知乎社区。
-    - title: V2EX
-      logo: v2ex.jpg
-      url: https://www.v2ex.com/
-      description: V2EX 创意工作者的社区。
-    - title: 语雀话题
-      logo: 语雀话题.png
-      url: https://www.yuque.com/shenweiyan/wow
-      description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
+  links:
+    - title: "安嘉官网"
+      logo: "anjia.png"
+      url: "https://www.anjia-home.com"
+      description: "安嘉验房官方网站"
 
+    - title: "安嘉小程序"
+      logo: "anjia-logo.jpeg"
+      qrcode: "assets/images/logos/anjia-qrcode.png"
+      description: "安嘉验房小程序"
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
+    - term: 常用链接
+      links:
+        - title: 公众号平台
+          logo: 微信公众号.png
+          url: https://mp.weixin.qq.com/
+          description: 再小的个体也有自己的品牌。
+
+        - title: GitHub
+          logo: github.jpg
+          url: https://github.com/
+          description: GitHub 开源社区。
+
+        - title: V2EX
+          logo: v2ex.jpg
+          url: https://www.v2ex.com/
+          description: V2EX 创意工作者的社区。
+
     - term: 生物信息
       links:
         - title: NCBI
@@ -127,66 +101,49 @@
           logo: ProcessOn.png
           url: https://www.processon.com/
           description: 免费在线作图、实时协作。
-        
+
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
-  list:
-    - term: 影音视频
-      links:
-        - title: 腾讯视频
-          logo: 腾讯视频.png
-          url: http://v.qq.com/
-          description: 腾讯视频，海量视频在线观看。
-        - title: 优酷
-          logo: 优酷.png
-          url: http://www.youku.com/
-          description: 优酷 - 这个世界很酷。
-        - title: 爱奇艺
-          logo: 爱奇艺.png
-          url: https://www.iqiyi.com/
-          description: 爱奇艺在线视频。
-        - title: 哔哩哔哩
-          logo: 哔哩哔哩.png
-          url: https://www.bilibili.com/
-          description: Bilibili 视频弹幕网站。
-        - title: QQ 音乐
-          logo: QQ音乐.jpg
-          url: https://y.qq.com/
-          description: QQ 音乐，在线听歌。
-        - title: 网易云音乐
-          logo: 网易云音乐.jpg
-          url: https://music.163.com/
-          description: 163 网易云音乐。
-        - title: 电影天堂（DYTT8）
-          logo: 电影天堂.png
-          url: https://www.dytt8.net/index.htm
-          description: 电影天堂（DYTT8），高清电影下载。
-        - title: 电影天堂（DYGOD）
-          logo: 电影天堂.png
-          url: https://www.dygod.net/
-          description: 电影天堂（DYGOD），高清电影下载。
-    - term: 游戏竞技
-      links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
-   
-      
+  links:
+    - title: 腾讯视频
+      logo: 腾讯视频.png
+      url: http://v.qq.com/
+      description: 腾讯视频，海量视频在线观看。
+    - title: 优酷
+      logo: 优酷.png
+      url: http://www.youku.com/
+      description: 优酷 - 这个世界很酷。
+    - title: 爱奇艺
+      logo: 爱奇艺.png
+      url: https://www.iqiyi.com/
+      description: 爱奇艺在线视频。
+    - title: 哔哩哔哩
+      logo: 哔哩哔哩.png
+      url: https://www.bilibili.com/
+      description: Bilibili 视频弹幕网站。
+    - title: QQ 音乐
+      logo: QQ音乐.jpg
+      url: https://y.qq.com/
+      description: QQ 音乐，在线听歌。
+    - title: 网易云音乐
+      logo: 网易云音乐.jpg
+      url: https://music.163.com/
+      description: 163 网易云音乐。
+    - title: 电影天堂（DYTT8）
+      logo: 电影天堂.png
+      url: https://www.dytt8.net/index.htm
+      description: 电影天堂（DYTT8），高清电影下载。
+    - title: 电影天堂（DYGOD）
+      logo: 电影天堂.png
+      url: https://www.dygod.net/
+      description: 电影天堂（DYGOD），高清电影下载。
+
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
   list:
     - term: 网盘资源
       links:
-        - title: 百度网盘
-          logo: 百度网盘.jpg
-          url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
         - title: 阿里云盘
           logo: 阿里云盘.png
           url: https://www.aliyundrive.com/
@@ -386,7 +343,7 @@
         - title: Abstract Fonts
           url: http://www.abstractfonts.com/
           logo: abstractfonts.png
-          description: Abstract Fonts (13,866 free fonts).      
+          description: Abstract Fonts (13,866 free fonts).
     - term: PPT资源
       links:
         - title: OfficePLUS
@@ -413,11 +370,11 @@
           url: http://ppt.500d.me/
           logo: 500d.png
           description: 中国领先的PPT模板共享平台。
-      
+
 
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
-  list: 
+  list:
     - term: 图形创意
       links:
         - title: photoshop
@@ -495,7 +452,7 @@
         - title: webgradients
           url: https://webgradients.com/
           logo: webgradients.png
-          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. 
+          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
         - title: grabient
           url: https://www.grabient.com/
           logo: grabient.png
@@ -566,7 +523,7 @@
           url: https://www.gaoding.com
           logo: gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图。
-        
+
     - term: 谷歌插件
       links:
         - title: wappalyzer
@@ -594,10 +551,9 @@
           logo: mustsee.png
           description: Discover the world's most beautiful places at every opened tab.
 
-
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
-  list: 
+  list:
     - term: 资讯书籍
       links:
         - title: 微信读书
@@ -639,7 +595,7 @@
         - title: Awesome design systems
           url: https://github.com/alexpate/awesome-design-systems
           logo: awesome_design_systems.png
-          description:  A collection of awesome design systems.
+          description: A collection of awesome design systems.
         - title: Material Design
           url: https://material.io/guidelines/
           logo: Material_Design.png
@@ -670,4 +626,3 @@
           url: https://www.imooc.com/
           logo: imooc.png
           description: 程序员的梦工厂（有UI课程）。
-        

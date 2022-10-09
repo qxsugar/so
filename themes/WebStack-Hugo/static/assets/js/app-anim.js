@@ -311,7 +311,6 @@
     $('#sidebar-switch').on('click',function(){
         $('#sidebar').removeClass('mini-sidebar');
         $('.sidebar-nav .change-href').attr('href','javascript:;');
-
     }); 
  
     // Trigger Resizable Function
